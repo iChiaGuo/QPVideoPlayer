@@ -1,0 +1,5 @@
+
+
+@interface QPFilmstripView : UIView
+
+@end
